@@ -35,7 +35,7 @@
               "state": {
                 "file": "netlify.toml.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
