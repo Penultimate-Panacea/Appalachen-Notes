@@ -169,6 +169,10 @@
   },
   "active": "cef6e815056fda5e",
   "lastOpenFiles": [
+    "netifly.toml",
+    "update.bat",
+    "home.md",
+    "netlify.toml",
     "CONFIG.md",
     "LICENSE",
     "bin",
@@ -179,8 +183,6 @@
     "local-run.sh",
     "netlify.example.toml",
     "run.sh",
-    "utils.py",
-    "zola",
     "home.md.md",
     "netlify.toml.md"
   ]
