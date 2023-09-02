@@ -11,8 +11,12 @@
             "id": "9c5422d4f87de23e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fey/Brighteyes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fey/Brighteyes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fey/Brighteyes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fey/Brighteyes.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "9c5422d4f87de23e",
   "lastOpenFiles": [
+    "Fey/RulesForFey.md",
+    "Player Charaters/Ayamar.md",
     "README.md",
     "WinterBrewery.md",
     "USIron.md",
@@ -164,8 +174,6 @@
     "KIrST.md",
     "KIrST Letter.md",
     "John.md",
-    "GroundLevel.md",
-    "Ground.md",
     "Session Notes",
     "Player Charaters",
     "Organizations",
