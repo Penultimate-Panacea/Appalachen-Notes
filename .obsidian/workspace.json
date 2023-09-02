@@ -13,13 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fey/Brighteyes.md",
+                "file": "Player Charaters/ScoriaCinderborn.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d2c2156a976573c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIrST Letter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc1050ebac08f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saint Anthony's Reliquary and Hospital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c02415bb8ae7a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "John Barco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec046a2279585900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pazuzzu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "500924d7dda2598d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "b2dfe77370545c35",
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fey/Brighteyes.md",
+                "file": "Pazuzzu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fey/Brighteyes.md",
+                "file": "Pazuzzu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fey/Brighteyes.md"
+                "file": "Pazuzzu.md"
               }
             }
           }
@@ -146,10 +205,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c5422d4f87de23e",
+  "active": "ec046a2279585900",
   "lastOpenFiles": [
-    "Fey/RulesForFey.md",
+    "German Pregnant Woman.md",
+    "John Barco.md",
+    "The Coal and Iron Police Must Go!” Harry Weiss, investigator for the Pittsburgh Branch of the American Civil Liberties Union.md",
+    "KIrST.md",
+    "Saint Anthony's Reliquary and Hospital.md",
+    "KIrST Letter.md",
+    "Cog Communicator.md",
+    "Player Charaters/ScoriaCinderborn.md",
+    "Player Charaters/ThaddeusLagrangeskov.md",
+    "Player Charaters/WarvynBadaxe.md",
+    "Player Charaters/LeroyJenkins.md",
+    "Player Charaters/Harrison Hayes.md",
+    "Player Charaters/GannisterStoke.md",
     "Player Charaters/Ayamar.md",
+    "Player Charaters/AureliaDArcy.md",
+    "Fey/Brighteyes.md",
+    "Fey/RulesForFey.md",
     "README.md",
     "WinterBrewery.md",
     "USIron.md",
@@ -159,21 +233,6 @@
     "SteelCity.md",
     "SouthSideFlats.md",
     "SohoManor.md",
-    "Soho.md",
-    "Soho Community House.md",
-    "SlimyPebble.md",
-    "SkyLevel.md",
-    "SimonTuston.md",
-    "ShabbyButt.md",
-    "SafehouseCrest.md",
-    "Peitharch Convent For Boys.md",
-    "Nora.md",
-    "Meemaw.md",
-    "LeroyProphecy.md",
-    "Leroy.md",
-    "KIrST.md",
-    "KIrST Letter.md",
-    "John.md",
     "Session Notes",
     "Player Charaters",
     "Organizations",

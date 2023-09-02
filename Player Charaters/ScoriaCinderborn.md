@@ -1,7 +1,7 @@
 # Rogue
-Poltical activist wanna be/trouble maker 
+Political activist wanna be/trouble maker 
 
-Won't admit publically that she is from [Slimy Pebble](SlimyPebble)
+Won't admit publicly that she is from [Slimy Pebble](SlimyPebble)
 Only wears black or very dark grey . 
 
 
@@ -19,6 +19,6 @@ Scoria's dad comes down, takes 90% of the breakfast and stares at Scoria for a l
 
 Scoria tries to convince her mom to stop doing everything for her dad because he controls her just as powerful people control him. After shedding a single tear her mother tells her that "There isn't a thing you do that isn't related to him". 
 
-Scoria heads out to the woods. After a bit she feels the world shaking in a incredibly scary way and hears a loud crash from the direction of the mine. She takes off of running and sees the mine entrance collapsed and sees children crying and rumors of earthquake. It was around lunchtime so miners and miner's wives may be in the mine (definitly her parents). Scoria starts to  just start moving rocks futily, as her hands bleed. Leroy starts to help fully believing this to be helpful. Gannister shows up and asks Scoria to stop so professionals can safely excavate the mine. Scoria protests and yells at Gannister for not helping. A large rock comes loose and hits her in the shoulder, breaking it. Leroy try to comfort Scoria. Gannister stops Scoria from continuing to dig through the cartharsis so she doesn't hurt herself more, but says that he understands in a way.
+Scoria heads out to the woods. After a bit she feels the world shaking in a incredibly scary way and hears a loud crash from the direction of the mine. She takes off of running and sees the mine entrance collapsed and sees children crying and rumors of earthquake. It was around lunchtime so miners and miner's wives may be in the mine (definitely her parents). Scoria starts to  just start moving rocks futilely, as her hands bleed. Leroy starts to help fully believing this to be helpful. Gannister shows up and asks Scoria to stop so professionals can safely excavate the mine. Scoria protests and yells at Gannister for not helping. A large rock comes loose and hits her in the shoulder, breaking it. Leroy try to comfort Scoria. Gannister stops Scoria from continuing to dig through the catharsis so she doesn't hurt herself more, but says that he understands in a way.
 
 Over the next few days people begin to actually excavate the mine. Scoria's need for information is never satsified as many townsfolk view it as just a thing that happens. A few rumors are around that the university is researching earthquakes. The conspiracy minded Scoria broods on this information for years. The mine collapse killed twenty-five miners and wives, including her parents. 
