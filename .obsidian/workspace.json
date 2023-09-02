@@ -11,8 +11,12 @@
             "id": "a8e8de232e7d5ec4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,47 +148,47 @@
   },
   "active": "a8e8de232e7d5ec4",
   "lastOpenFiles": [
-    "Website Development/SEO.md",
-    "Useful (Online) Tools and Resources/Reseach.md",
-    "Useful (Online) Tools and Resources/Misc.md",
+    "home.md",
     "Useful (Online) Tools and Resources/Software Development.md",
-    "Useful (Online) Tools and Resources/Hacks and Workarounds (Outsmarting Rogue Companies).md",
+    "Useful (Online) Tools and Resources/Reseach.md",
     "Useful (Online) Tools and Resources/Powerpoint.md",
+    "Useful (Online) Tools and Resources/Hacks and Workarounds (Outsmarting Rogue Companies).md",
+    "Useful (Online) Tools and Resources/Misc.md",
+    "obsidian-zola tests/repeat name.md",
+    "Tinkering/Project Inspirations.md",
+    "obsidian-zola tests/weird_@filename_% $^}{+=-_~`&()!'.md",
+    "obsidian-zola tests/line breaks.md",
+    "obsidian-zola tests/repeat name/nested.md",
+    "Miscellaneous/Microsoft Office Tricks.md",
+    "Miscellaneous/Linux Tricks.md",
+    "Miscellaneous/Renovation Nonos.md",
+    "Miscellaneous/Electromagnetism.md",
+    "misc/Renovation Nonos.md",
+    "misc/MiniDelta Tuning.md",
+    "misc/Electromagnetism.md",
+    "attachments/stylegan realism score.png",
+    "attachments/xavier initialization 2.png",
+    "attachments/chexpert_labels.png",
+    "attachments/GAN knn manifold approximation.png",
+    "attachments/current_return_path.png",
+    "attachments/evolution of deep cnn 3.png",
+    "Website Development/SEO.md",
     "University/FYP Plan (trying to break things)````.md",
     "University/Analog Electronics.md",
-    "Tinkering/Project Inspirations.md",
     "Tech/Make Conda Great (Less Suckish) Again.md",
     "Tech/SSH into a WSL2 Host Remotely.md",
     "Tech/Personal Notes on Consumer Electronics.md",
     "Tech/Ubuntu SSH Machine Learning Server Setup.md",
     "Tech/Microsoft Windows Productivity Hacks and Tricks.md",
-    "Tech/Google Chrome and Google Search Hacks.md",
-    "Tech/WSL2 NVIDIA Docker Error.md",
-    "Tech/VSCode Resources.md",
-    "Tech/Running Custom Command Using Windows Shortcuts.md",
-    "Tech/Saving PulseSecure Password in Microsoft Windows.md",
-    "Programming/Windows + WSL Programmer's Setup.md",
-    "Programming/Rust Tips.md",
-    "Programming/Git Deep Dive.md",
-    "Programming/Cpp Deep Dive.md",
-    "Programming/Git Stuff.md",
-    "Programming/Bresenham's Line Algorithm.md",
-    "Programming/Docker Stuff.md",
     "Programming/Python",
     "obsidian-zola tests/repeat name",
     "attachments/Pasted image 20220424141351.png",
     "attachments/obsidian_vscode_shortcut_icon.ico",
     "attachments/Progressive GAN.pdf",
-    "attachments/stylegan realism score.png",
     "attachments/pulse_secure_shortcut_icon.ico",
     "attachments/picoclick-c3.png",
     "attachments/evolution of deep cnn.png",
     "attachments/xavier initialization.png",
-    "attachments/Pasted image 20220620233246.png",
-    "attachments/GAN Precision and Recall.png",
-    "attachments/Pasted image 20220620230853.png",
-    "attachments/chexpert_labels.png",
-    "attachments/kaiming he initialization.png",
     "attachments/PID control system analysis, design, and technology.pdf",
     "attachments/PID_control_system_analysis_and_design.pdf",
     "3D Printing/Firmware",
