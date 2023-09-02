@@ -1,0 +1,2 @@
+
+Hayes went in the portal then, three men with dark cloaks entered the office. They murdered two of the clerk's assistants. A random old woman came through (Meemaw) the portal and murdered one of the men. She was most recently seen in The Tenement Building in South Side. 

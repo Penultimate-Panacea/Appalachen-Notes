@@ -1,0 +1,2 @@
+Has a mixed clientle (?) 
+A few drunks, well upkept, no police presence, no indicators of that police present. A lot of veterans of WWI, two men signficantly look like they are putting on the outfits of the poor. One man sitting by himself in a table going in and out of the light. 

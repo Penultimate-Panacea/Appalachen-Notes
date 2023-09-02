@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7de298afbadbed9c",
+        "id": "7c2109876203a9d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e8de232e7d5ec4",
+            "id": "9c5422d4f87de23e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,53 +138,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8e8de232e7d5ec4",
+  "active": "9c5422d4f87de23e",
   "lastOpenFiles": [
-    "home.md",
-    "Useful (Online) Tools and Resources/Software Development.md",
-    "Useful (Online) Tools and Resources/Reseach.md",
-    "Useful (Online) Tools and Resources/Powerpoint.md",
-    "Useful (Online) Tools and Resources/Hacks and Workarounds (Outsmarting Rogue Companies).md",
-    "Useful (Online) Tools and Resources/Misc.md",
-    "obsidian-zola tests/repeat name.md",
-    "Tinkering/Project Inspirations.md",
-    "obsidian-zola tests/weird_@filename_% $^}{+=-_~`&()!'.md",
-    "obsidian-zola tests/line breaks.md",
-    "obsidian-zola tests/repeat name/nested.md",
-    "Miscellaneous/Microsoft Office Tricks.md",
-    "Miscellaneous/Linux Tricks.md",
-    "Miscellaneous/Renovation Nonos.md",
-    "Miscellaneous/Electromagnetism.md",
-    "misc/Renovation Nonos.md",
-    "misc/MiniDelta Tuning.md",
-    "misc/Electromagnetism.md",
+    "README.md",
+    "WinterBrewery.md",
+    "USIron.md",
+    "University of Knowledge.md",
+    "Timmy.md",
+    "The Passionist Monks of St. Paul.md",
+    "SteelCity.md",
+    "SouthSideFlats.md",
+    "SohoManor.md",
+    "Soho.md",
+    "Soho Community House.md",
+    "SlimyPebble.md",
+    "SkyLevel.md",
+    "SimonTuston.md",
+    "ShabbyButt.md",
+    "SafehouseCrest.md",
+    "Peitharch Convent For Boys.md",
+    "Nora.md",
+    "Meemaw.md",
+    "LeroyProphecy.md",
+    "Leroy.md",
+    "KIrST.md",
+    "KIrST Letter.md",
+    "John.md",
+    "GroundLevel.md",
+    "Ground.md",
+    "Session Notes",
+    "Player Charaters",
+    "Organizations",
+    "Non Player Characters",
+    "Monsters",
+    "Magic",
+    "Locations",
+    "Fey",
+    "Clues",
     "attachments/stylegan realism score.png",
     "attachments/xavier initialization 2.png",
     "attachments/chexpert_labels.png",
     "attachments/GAN knn manifold approximation.png",
     "attachments/current_return_path.png",
     "attachments/evolution of deep cnn 3.png",
-    "Website Development/SEO.md",
-    "University/FYP Plan (trying to break things)````.md",
-    "University/Analog Electronics.md",
-    "Tech/Make Conda Great (Less Suckish) Again.md",
-    "Tech/SSH into a WSL2 Host Remotely.md",
-    "Tech/Personal Notes on Consumer Electronics.md",
-    "Tech/Ubuntu SSH Machine Learning Server Setup.md",
-    "Tech/Microsoft Windows Productivity Hacks and Tricks.md",
     "Programming/Python",
-    "obsidian-zola tests/repeat name",
     "attachments/Pasted image 20220424141351.png",
-    "attachments/obsidian_vscode_shortcut_icon.ico",
-    "attachments/Progressive GAN.pdf",
-    "attachments/pulse_secure_shortcut_icon.ico",
     "attachments/picoclick-c3.png",
     "attachments/evolution of deep cnn.png",
-    "attachments/xavier initialization.png",
-    "attachments/PID control system analysis, design, and technology.pdf",
-    "attachments/PID_control_system_analysis_and_design.pdf",
-    "3D Printing/Firmware",
-    "3D Printing/3D Models",
-    "Website Development"
+    "attachments/xavier initialization.png"
   ]
 }

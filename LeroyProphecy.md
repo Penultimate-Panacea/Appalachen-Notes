@@ -1,0 +1,2 @@
+
+The axe super imposed between Leroy and Diedre, the axe has vines running over it and two hands are above it. One hand has blue crystal and is pressing it into the other hand with a [crest](SafehouseCrest) on it. 

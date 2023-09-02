@@ -1,0 +1,29 @@
+# Smoke Genasi
+
+Native of [Steel City](SteelCity) now an orphan. Born after an industrial accident in Steel City hence is more of a pollution/smoke genasi rather than an air genasi. Mother died from complications due to the accident, Father died due to poorly planned worker uprising. Started working in academia in assistant roles as a result of his mother's contacts and lived off of that and his father's shitty pension from [Slate Co.](SlateCo.md). 
+
+In [Slimy Pebble](SlimyPebble) as a result of a 'promotion' at his [company](usiron) to over see the import/export business. 
+
+## Flashback
+
+Inside the Cathedral of Knowledge in Steel City, there are ornate giant lamps hang from the ceiling. Tons of students are hard at work, scratching away with quills wearing 1920s garb where it is so quiet that you could hear a pindrop. There is a long stair case that goes to a balcony which overlooks the study area. Another staircase spirals up the whole height of the building
+ 
+Dr. Obidiah Henderson is an old professor wearing a purple velvet suit with a long robes with silver clasps, standing next to a young Hayes wearing a white shirt with suspenders and a derby hat. Hayes's skin looks like glass and looks like a creature made out of crystal. The professor is firmly berating Hayes and would like to be berating him louder. Obidiah is upset that Hayes ran away to the South and leaving him assistantless. He mentions that Charollete Hayes (his mother) did so much more while she was a research project. She never went to the south in the middle of an research project, how she would never smoke or hang out with jazz players. Mother is in the past tense here. 
+
+Hayes quietly seethes and recognizes that there is no other choice but to let Obidiah have his time. Obidiah can see a small flicker of red inside of Hayes as his emotions stare to flare up. "Just keep learning and striving, we know that you don't have enough money to join the university ... if you want to honor the memory of your mother, we will find a you a job in business or commerce" Obidiah further berates Hayes for taking magical books out of his office and shames him for considering magic to be so free flowing and available to the common folk. Hayes remembers the fire that killed his mother and remembers that it may have been covered up and feels that Obidiah is also thinking about the same issue. The fire was likely caused by poor management on the business side. The fire burned everything for a mile and a quarter. 
+
+Obidiah softens a bit and explains that he is only trying to do what is best for you. Hayes responds that Obidiah is doing what Obidiah thinks is best. Hayes and Obidiah go back and forth about the opportunities afforded to Hayes with Obidiah taking the stance that opportunities exist if Hayes recognizes his lot in life. Obidiah tasks Hayes to retrieve a book from the Lebanese Room. 
+
+Hayes takes a moment to lower the evidence of this frustration, and goes to fetch the book on the arcane properities of aquamarine crystals. The room has a conversation pit and the walls are covered in copper. The candles do not provide a lot of light and throw shadows across the room and leave much of it in darkness while the walls glow. Hayes tries to determine the pattern to the books on the bookshelves but one does not appear to exist. 
+
+Hayes is caught between two thoughts about his state of life. People are responsible for themselves sure, but also the world happens to people. Hayes doesn't think that Obidiah understands that the world has happened to a city full of people. Obidiah doesn't recognize that the university is all he has to cling on to. 
+
+A dark voice seeming to come from a dark corner of the room asks, "Clinging are you?". The giant scaled canine creature whisps back and forth with unnatural speed. It has a scorpion tale the face of a man and talons. It takes up half of the room, and could not have been here when Hayes entered. It floats into the air and an after image follows it a moment later. "Are you stuck?" Hayes, respondes that he certainly feels stuck. The creature responds, "Pazuzu (More titles to come), Why did you wake me?"
+
+"I didn't realize I was waking you. I did not mean to wake anything here."
+
+"No one means to wake me, I am awakened when people need me. I only wake when I am needed. I only go back to sleep when I am satisfied. What do you want?"
+
+"I only want things to be fair," responds Hayes as he sucks thoughts out of his head in a deeply uncomfortable manner. The demon shrinks down, and asks what fair means. The demon and Hayes discuss what it would mean to make Steel City more fair. The powerful do not deserve their power, but a vaccum of power would only leave those who take it with it. Hayes asks if power can be shared, and the demon responds that it can be but not often. Hayes asks if it can be taken, and the demon whole heartedly agrees. Hayes defines that power is not to be used for greed or self-engrandizement. The demon asks Hayes how much he is willing to risk for that cause, Hayes is willing to die trying. The demon offers the power to take the power back from anyone who has ever hurt you, your friends, this city. If, Hayes agrees to a promise. Hayes asks for details of the promise and the demon stalks off and threatens to go back to sleep. Hayes asks him to stay. Hayes asks if it will work. The demon changes into a person and holds out his hand, it will be enough power if you have the will to use it. 
+
+Hayes takes the hand and his jaw drops and smog fills the room and something fills his body as he feels like he is shrinking and shrinking and in excruciating pain falls back on to the pillows. When he comes to, his skin feels like molten glass and he feels deep heat under his skin and feels smog filling his body. One last note on the wind, "promise"

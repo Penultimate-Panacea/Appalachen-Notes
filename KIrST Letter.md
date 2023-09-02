@@ -1,0 +1,4 @@
+Dear Comrades, 
+	We have been delighted by your work so far, bombastic though it may be. We can almost guarantee your safety in this space. In lieu of rent, we would recommend a sort of guidance for you and your friends as you look for your grandmother that we are assisting you in finding. If you would like assistance in finding your "Meemaw" please provide information that you find about the following topic: While we work to continue to find your Meemaw, Rose, we are working to form our case for our cause, greater miner rights. We have been noting an increase in medical issues within the miner community. We hope you will be able to look into what kind of medical issues these miners are getting from the tunnels and why they are happening now. 
+
+  (Leroy should ask if there is a similar illness)

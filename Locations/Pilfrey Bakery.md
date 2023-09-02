@@ -1,0 +1,1 @@
+A bakery in [Slimy Pebble](SlimyPebble) owned by [Thomas Pilfrey](obsidian://open?vault=Appalachian&file=Non%20Player%20Characters%2FThomasPilfrey)  
