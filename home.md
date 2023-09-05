@@ -1,4 +1,3 @@
-Click anything on the sidebar :)
+## **Welcome!**
 
-Cool Stuff to look out for:
-- NuShell
+# [People](People)

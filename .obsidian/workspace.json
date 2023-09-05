@@ -8,18 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c5422d4f87de23e",
+            "id": "cf5d4ef27c558c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fey/Brighteyes.md",
+                "file": "John.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a16fc4445938a7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec046a2279585900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pazuzzu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "500924d7dda2598d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "b2dfe77370545c35",
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fey/Brighteyes.md",
+                "file": "People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fey/Brighteyes.md",
+                "file": "People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fey/Brighteyes.md"
+                "file": "People.md"
               }
             }
           }
@@ -146,34 +181,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c5422d4f87de23e",
+  "active": "a16fc4445938a7ea",
   "lastOpenFiles": [
-    "Fey/RulesForFey.md",
-    "Player Charaters/Ayamar.md",
+    "Portal.md",
+    "Non Player Characters/Diedre.md",
+    "Deidre Flannery.md",
+    "2023-01-22.md",
+    "Events/Calamity at Slimy Pebble.md",
+    "John.md",
+    "Annie.md",
+    "AyamarPatron.md",
+    "People.md",
     "README.md",
-    "WinterBrewery.md",
-    "USIron.md",
-    "University of Knowledge.md",
+    "Non Player Characters/Rose Violet (aka Meemaw).md",
+    "Organizations/SlimyPebbleUniversity.md",
     "Timmy.md",
-    "The Passionist Monks of St. Paul.md",
-    "SteelCity.md",
-    "SouthSideFlats.md",
-    "SohoManor.md",
-    "Soho.md",
-    "Soho Community House.md",
-    "SlimyPebble.md",
-    "SkyLevel.md",
+    "Leroy.md",
+    "Non Player Characters/Meemaw.md",
+    "Ayamar.md",
+    "Events",
     "SimonTuston.md",
-    "ShabbyButt.md",
+    "Session5.md",
     "SafehouseCrest.md",
+    "Pazuzzu.md",
     "Peitharch Convent For Boys.md",
     "Nora.md",
-    "Meemaw.md",
     "LeroyProphecy.md",
-    "Leroy.md",
-    "KIrST.md",
     "KIrST Letter.md",
-    "John.md",
+    "KIrST.md",
+    "home.md",
     "Session Notes",
     "Player Charaters",
     "Organizations",
@@ -189,7 +225,6 @@
     "attachments/GAN knn manifold approximation.png",
     "attachments/current_return_path.png",
     "attachments/evolution of deep cnn 3.png",
-    "Programming/Python",
     "attachments/Pasted image 20220424141351.png",
     "attachments/picoclick-c3.png",
     "attachments/evolution of deep cnn.png",

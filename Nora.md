@@ -2,7 +2,7 @@ Name: Nora Obrynn
 Age: Around her 40s
 Role: Divinatrix
 
-A larger Irish woman, Nora raised [Diedre](Diedre) as her child. 
+A larger Irish woman, Nora raised [Diedre](Diedre.md) as her child. 
 
 She disappears occasionally. 
 

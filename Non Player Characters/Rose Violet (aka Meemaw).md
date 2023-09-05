@@ -2,7 +2,7 @@ Name: Rose Violet (LAST NAME UNKNOWN)
 Age: Grandma appearing
 Role: Divination Wizard
 
-Comes from a place that [Diedre](Diedre) does not know how to get to, somewhere parallel to this plane of existing, possibly the [Fourth River](FourthRiver).
+Comes from a place that [Diedre](Diedre.md) does not know how to get to, somewhere parallel to this plane of existing, possibly the [Fourth River](FourthRiver).
 
 ## Background
 Village Elder of [Slimy Pebble](SlimyPebble), adopted [Ayamar](Ayamar) after finding them after their encounter with their [Water Elder Being](AyamarPatron) which gives Ayamar their powers. Also beloved by [Leroy](Leroy). Showed up in Slimy Pebble around forty years ago. She walks in the under belly of Steel City with the criminal element and beyond the bounds of 'polite society'. 
