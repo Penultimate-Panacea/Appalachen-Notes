@@ -4,7 +4,7 @@ Has multiple faces
 	John Hollis is their main face, looks just like Oscar Wilde
 	Some girl in town who they think is pretty
 	Some
-Multiple faces are known to the residents of [Slimy Pebble](SlimyPebble) and the residents follow along with who they are pretending to be. Raised by [Meemaw](Meemaw) and effectively siblings with [Leroy](LeroyJenkins) absoluetly dedicated to Meemaw. Became terrified of water after hearing the [prophecy](ProphecyofMeemaw.md) 
+Multiple faces are known to the residents of [Slimy Pebble](SlimyPebble) and the residents follow along with who they are pretending to be. Raised by [Rose Violet (aka Meemaw)](Rose%20Violet%20(aka%20Meemaw).md) and effectively siblings with [Leroy](LeroyJenkins) absoluetly dedicated to Meemaw. Became terrified of water after hearing the [prophecy](ProphecyofMeemaw.md) 
 
 ## Flashback
 

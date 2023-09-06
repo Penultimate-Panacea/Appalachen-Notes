@@ -3,7 +3,7 @@ Paladin (Him/bo)
 Village Idiot of [Slimy Pebble](SlimyPebble) 
 Sandy brown hair, lots of freckles with a newsboy cap. 
 
-Learned to fight from 'Uncle' [Badaxe](WarvynBadaxe) . Raised by [Meemaw](Meemaw) and the rest of the village, especially Uncle Badaxe and [Gannister Stoke](Player%20Charaters/GannisterStoke.md) 
+Learned to fight from 'Uncle' [Badaxe](WarvynBadaxe) . Raised by [Rose Violet (aka Meemaw)](Rose%20Violet%20(aka%20Meemaw).md) and the rest of the village, especially Uncle Badaxe and [Gannister Stoke](Player%20Charaters/GannisterStoke.md) 
 
 ## Flashback
 

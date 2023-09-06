@@ -1,7 +1,7 @@
 # Aurelia D'Arcy
 Divination Wizard
 
-Travelling through [Slimy Pebble](SlimyPebble) presumably on the their way to the [Steel City](SteelCity).  Has a short flapper bob with a crazy 20s rogue makeup situation. Hung out with [John Hollis](Ayamar) for a while thinking that they were [Oscar Wilde](OscarWilde.md). Prefers to make her living by convincing rich barons of industry and wives to pay her after performing fake seances, doesn't use magical powers in pursuit of her grift. 
+Travelling through [Slimy Pebble](SlimyPebble) presumably on the their way to the [Steel City](SteelCity%201.md).  Has a short flapper bob with a crazy 20s rogue makeup situation. Hung out with [John Hollis](Ayamar) for a while thinking that they were [Oscar Wilde](OscarWilde.md). Prefers to make her living by convincing rich barons of industry and wives to pay her after performing fake seances, doesn't use magical powers in pursuit of her grift. 
 
 ## Flashback 
 Aurelia is in a large upper class home in Philadelphia with candles and incense and cushions to create an approriate seance-y atmosphere in the most theatrical atmosphere. She is dressed in thematically appropriate, vaugely exotic looking clothing and a 1920s turban with jewlery. All the gems are glass and the clothing is as cheap as it can be but still be convinceing and everything is covered in fringe. She looks to be thrown, with all of her clothes around her. on to a chaise longe which she commands presence from. This is Uncle Victor's house, he passed a few months ago. There is rain and fog outside the windows. 

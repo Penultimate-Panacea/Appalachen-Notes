@@ -1,6 +1,6 @@
 ## Background
 
-Claims to hold the vast majority of the power in this town, may be dethroned by the [AFL](AFL). Aware of the tunnels and has encountered some health hazards and is requesting protective devices but no one will document the conditions they are experiencing in the Excel Sheets. 
+Claims to hold the vast majority of the power in this town, may be dethroned by the [AFL](obsidian://open?vault=Appalachen-Notes&file=AFL.md). Aware of the tunnels and has encountered some health hazards and is requesting protective devices but no one will document the conditions they are experiencing in the Excel Sheets. 
 
 ## Membership
 * The Homestead Workers (a surpising addition)

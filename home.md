@@ -1,4 +1,14 @@
-Click anything on the sidebar :)
+## **Welcome!**
 
-Cool Stuff to look out for:
-- NuShell
+# [People](People)
+
+# [Organizations](Organizations)
+
+# [Locations](Locations)
+
+# Entities
+
+## [Fey](Fey)
+
+## [Esoteric](Esoteric)
+
