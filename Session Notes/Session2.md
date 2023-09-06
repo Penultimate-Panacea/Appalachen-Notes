@@ -34,7 +34,7 @@ Warvyn goes to flip the Boulder Snake after the tail was removed by Hayes. Unfor
 
 Ethrel tells Auerlia that she needs to "Let out my little friends" before she can talk with her. A laminar flow of water reaches out to the university smashing the chimney causing the magic light bulbs to flicker a couple times and then stay on. 
 
-Sertha casts a spell and causes acid rain to fall from the clouds stinging Leroy and begins to melt slowly melt Auerlia's parasol. Thankfully Ayamar is able to be out in the acidic downpour thanks to the many hats provided to them from [Meemaw](Meemaw). 
+Sertha casts a spell and causes acid rain to fall from the clouds stinging Leroy and begins to melt slowly melt Auerlia's parasol. Thankfully Ayamar is able to be out in the acidic downpour thanks to the many hats provided to them from [Rose Violet (aka Meemaw)](Rose%20Violet%20(aka%20Meemaw).md). 
 
 Leroy has been slashing the air beneath Sertha for a while. But then, Leroy takes their battleaxe strikes Sertha! The ground glows green and saplings pull themselves out of the ground and point directly at Sertha. "Where the hell is my Meemaw!?" Sertha crouches down to put her weird twisted sunken eyes directly in line with Leroy's. Sertha flicks her long giraffe tounge as a small trickle of clear glassy (mineral oil like) blood starts to come from ankle. 
 
