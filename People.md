@@ -30,21 +30,21 @@
 
 [Diedre Flannery](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FDiedre)
 
-[John Barcoski](obsidian://open?vault=Appalachen-Notes&file=John%20Barcoski) *In Hiding*
+[John Barcoski](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FJohn%20Barcoski)
 
-[Nora Obrynn](obsidian://open?vault=Appalachen-Notes&file=Nora)
+[Nora Obrynn](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FNora)
 
 [Duchess](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FCat) *Is a Cat*
 
-[Simon Tuston](obsidian://open?vault=Appalachen-Notes&file=SimonTuston)
+[Simon Tuston](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FSimonTuston)
 
-[Lucille](obsidian://open?vault=Appalachen-Notes&file=Lucille)
+[Lucille](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FLucille)
 
-[Timmy](obsidian://open?vault=Appalachen-Notes&file=Timmy)
+[Timmy](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FTimmy)
 
-[Shabby Butt](obsidian://open?vault=Appalachen-Notes&file=ShabbyButt)
+[Shabby Butt](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FShabbyButt)
 
-[Nameless Pregnant German Woman](obsidian://open?vault=Appalachen-Notes&file=German%20Pregnant%20Woman)
+[Nameless Pregnant German Woman](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FGerman%20Pregnant%20Woman)
 
 
 
