@@ -1,8 +1,14 @@
-Click anything on the sidebar :)
+# **Welcome!**
 
-<<<<<<< Updated upstream
-Cool Stuff to look out for:
-- NuShell
-=======
-# [Assets](Assets)
->>>>>>> Stashed changes
+## [People](People)
+
+## [Organizations](Organizations)
+
+## [Locations](Locations)
+
+## Entities
+
+### [Fey](Fey)
+
+### [Esoteric](Esoteric)
+
