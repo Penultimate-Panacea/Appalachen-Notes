@@ -1,5 +1,5 @@
 
-Bonus Action to change channel 
+Bonus Action to change channel , unknown range , broadcast on a channel only
 
 Channel 1 -- Global
 Channel 7 -- Gannister

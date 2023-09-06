@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2109876203a9d9",
+        "id": "c500aebbfdb89d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "9c5422d4f87de23e",
+            "id": "02f6572edf196a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Charaters/ScoriaCinderborn.md",
+                "file": "Session Notes/Session5.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6d2c2156a976573c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KIrST Letter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fc1050ebac08f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saint Anthony's Reliquary and Hospital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c02415bb8ae7a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "John Barco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec046a2279585900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pazuzzu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "500924d7dda2598d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pazuzzu.md",
+                "file": "Session Notes/Session5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pazuzzu.md",
+                "file": "Session Notes/Session5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pazuzzu.md"
+                "file": "Session Notes/Session5.md"
               }
             }
           }
@@ -205,50 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec046a2279585900",
+  "active": "f6e8165e01731881",
   "lastOpenFiles": [
-    "German Pregnant Woman.md",
-    "John Barco.md",
-    "The Coal and Iron Police Must Go!” Harry Weiss, investigator for the Pittsburgh Branch of the American Civil Liberties Union.md",
-    "KIrST.md",
-    "Saint Anthony's Reliquary and Hospital.md",
-    "KIrST Letter.md",
-    "Cog Communicator.md",
-    "Player Charaters/ScoriaCinderborn.md",
-    "Player Charaters/ThaddeusLagrangeskov.md",
-    "Player Charaters/WarvynBadaxe.md",
-    "Player Charaters/LeroyJenkins.md",
-    "Player Charaters/Harrison Hayes.md",
-    "Player Charaters/GannisterStoke.md",
-    "Player Charaters/Ayamar.md",
-    "Player Charaters/AureliaDArcy.md",
-    "Fey/Brighteyes.md",
-    "Fey/RulesForFey.md",
-    "README.md",
     "WinterBrewery.md",
-    "USIron.md",
     "University of Knowledge.md",
+    "USIron.md",
     "Timmy.md",
     "The Passionist Monks of St. Paul.md",
     "SteelCity.md",
     "SouthSideFlats.md",
+    "SouthSide.md",
     "SohoManor.md",
+    "Soho.md",
+    "Soho Community House.md",
+    "SkyLevel.md",
+    "SimonTuston.md",
+    "ShabbyButt.md",
+    "SafehouseCrest.md",
+    "Portal.md",
+    "Peitharch Convent For Boys.md",
+    "Pazuzzu.md",
+    "Nora.md",
+    "Monsters/WaterElementalSnake.md",
+    "Monsters/FractalTornado.md",
+    "Monsters/BolderSnake.md",
+    "Monsters",
+    "Meemaw.md",
+    "LeroyProphecy.md",
+    "Leroy.md",
+    "KIrST.md",
+    "Items",
+    "Events",
+    "Entities",
+    "Assets",
     "Session Notes",
     "Player Charaters",
     "Organizations",
     "Non Player Characters",
-    "Monsters",
     "Magic",
-    "Locations",
-    "Fey",
-    "Clues",
     "attachments/stylegan realism score.png",
     "attachments/xavier initialization 2.png",
     "attachments/chexpert_labels.png",
     "attachments/GAN knn manifold approximation.png",
     "attachments/current_return_path.png",
     "attachments/evolution of deep cnn 3.png",
-    "Programming/Python",
     "attachments/Pasted image 20220424141351.png",
     "attachments/picoclick-c3.png",
     "attachments/evolution of deep cnn.png",
