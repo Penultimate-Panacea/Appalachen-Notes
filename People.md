@@ -12,8 +12,8 @@
 [Hayes](obsidian://open?vault=Appalachen-Notes&file=Player%20Charaters%2FHarrison%20Hayes)
 
 [Leroy](obsidian://open?vault=Appalachen-Notes&file=Player%20Charaters%2FLeroyJenkins)
-[Scoria](obsidian://open?vault=Appalachen-Notes&file=Player%20Charaters%2FScoriaCinderbo
-rn) *MIA -- Last Seen: Outside the Soho*
+
+[Scoria](obsidian://open?vault=Appalachen-Notes&file=Player%20Charaters%2FScoriaCinderborn) *MIA -- Last Seen: Outside the Soho*
 
 [Thaddeus](obsidian://open?vault=Appalachen-Notes&file=Player%20Charaters%2FThaddeusLagrangeskov)
 
