@@ -1,3 +1,3 @@
-One of the first neighborhoods you enter via tunnel into [Steel City](SteelCity), it is mostly buisnesses and right across the bridge from the USIron business district, used to be called Birhmingham Village, there is a train station underneath the swirly, and the South Side Shops and petty ledgers of USIron.
+One of the first neighborhoods you enter via tunnel into [Steel City](SteelCity%201.md), it is mostly buisnesses and right across the bridge from the USIron business district, used to be called Birhmingham Village, there is a train station underneath the swirly, and the South Side Shops and petty ledgers of USIron.
 
 Dark, gloomy, perpetualyl not quite rainy or snowy. Sounds of industry and merchants everwhere. There are merchants everywhere, there is no seperation between housing and heavy industry. Mage hands are sending objects everywhere above me. Tons of cantrips being cast everywhere. Highly Eastern European, Russian, Slavic.

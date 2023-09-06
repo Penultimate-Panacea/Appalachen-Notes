@@ -1,8 +1,8 @@
 # Smoke Genasi
 
-Native of [Steel City](SteelCity) now an orphan. Born after an industrial accident in Steel City hence is more of a pollution/smoke genasi rather than an air genasi. Mother died from complications due to the accident, Father died due to poorly planned worker uprising. Started working in academia in assistant roles as a result of his mother's contacts and lived off of that and his father's shitty pension from [Slate Co.](SlateCo.md). 
+Native of [Steel City](SteelCity%201.md) now an orphan. Born after an industrial accident in Steel City hence is more of a pollution/smoke genasi rather than an air genasi. Mother died from complications due to the accident, Father died due to poorly planned worker uprising. Started working in academia in assistant roles as a result of his mother's contacts and lived off of that and his father's shitty pension from [Slate Co.](SlateCo.md). 
 
-In [Slimy Pebble](SlimyPebble) as a result of a 'promotion' at his [company](usiron) to over see the import/export business. 
+In [Slimy Pebble](SlimyPebble) as a result of a 'promotion' at his [company](USIron.md) to over see the import/export business. 
 
 ## Flashback
 

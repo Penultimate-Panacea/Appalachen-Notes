@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2109876203a9d9",
+        "id": "c500aebbfdb89d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5d4ef27c558c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "John.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a16fc4445938a7ea",
+            "id": "5cb2e49de53de891",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,29 +20,18 @@
             }
           },
           {
-            "id": "ec046a2279585900",
+            "id": "02f6572edf196a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pazuzzu.md",
+                "file": "Organizations/USIron.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "500924d7dda2598d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,35 +158,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a16fc4445938a7ea",
+  "active": "5cb2e49de53de891",
   "lastOpenFiles": [
-    "Portal.md",
-    "Non Player Characters/Diedre.md",
-    "Deidre Flannery.md",
-    "2023-01-22.md",
-    "Events/Calamity at Slimy Pebble.md",
-    "John.md",
-    "Annie.md",
-    "AyamarPatron.md",
-    "People.md",
-    "README.md",
-    "Non Player Characters/Rose Violet (aka Meemaw).md",
-    "Organizations/SlimyPebbleUniversity.md",
-    "Timmy.md",
-    "Leroy.md",
-    "Non Player Characters/Meemaw.md",
-    "Ayamar.md",
-    "Events",
-    "SimonTuston.md",
     "Session5.md",
-    "SafehouseCrest.md",
-    "Pazuzzu.md",
-    "Peitharch Convent For Boys.md",
-    "Nora.md",
-    "LeroyProphecy.md",
-    "KIrST Letter.md",
-    "KIrST.md",
+    "Locations.md",
+    "Locations/Soho.md",
+    "Locations/SteelCity 1.md",
+    "Locations/Slimy Pebble Mines.md",
+    "SlimyPebble.md",
+    "Locations/Meemaw's House.md",
     "home.md",
+    "Locations/Soho Community House.md",
+    "Fey.md",
+    "Esoteric.md",
+    "Entities/Iamashtu.md",
+    "Assets/Contents of Safehouse.md",
+    "Assets",
+    "().md",
+    "Organizations/The Passionist Monks of St. Paul.md",
+    "Organizations.md",
+    "Organizations/StThomasReliquary.md",
+    "Non Player Characters/ShabbyButt.md",
+    "Organizations/KIrST.md",
+    "Organizations/AFL.md",
+    "SouthSide.md",
+    "SouthSideFlats.md",
+    "Organizations/PBA.md",
+    "Organizations/SlateCo.md",
+    "Organizations/University of Knowledge.md",
+    "Organizations/SlimyPebbleUniversity.md",
+    "Entities",
+    "Events",
     "Session Notes",
     "Player Charaters",
     "Organizations",
@@ -217,8 +196,6 @@
     "Monsters",
     "Magic",
     "Locations",
-    "Fey",
-    "Clues",
     "attachments/stylegan realism score.png",
     "attachments/xavier initialization 2.png",
     "attachments/chexpert_labels.png",

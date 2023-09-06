@@ -1,4 +1,4 @@
-A large manor with 22 rooms located in [Soho](Soho). A motif of grapes is present.
+A large manor with 22 rooms located in [Soho](Soho.md). A motif of grapes is present.
 
 
 ## Kitchen

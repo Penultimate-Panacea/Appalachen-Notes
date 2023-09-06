@@ -17,6 +17,14 @@
 ## Denizens of Steel City
 [Annie]()
 [Diedre Flannery](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FDiedre)
+[John Barcoski](obsidian://open?vault=Appalachen-Notes&file=John%20Barcoski) 
+[Nora Obrynn](obsidian://open?vault=Appalachen-Notes&file=Nora)
+[Duchess](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FCat) *Is a Cat*
+[Simon Tuston](obsidian://open?vault=Appalachen-Notes&file=SimonTuston)
+[Lucille](obsidian://open?vault=Appalachen-Notes&file=Lucille)
+[Timmy](obsidian://open?vault=Appalachen-Notes&file=Timmy)
+[Shabby Butt](obsidian://open?vault=Appalachen-Notes&file=ShabbyButt)
+
 
 ## Denizens of Slimy Pebble
 [Thomas Pilfrey](obsidian://open?vault=Appalachen-Notes&file=Non%20Player%20Characters%2FThomasPilfrey) *MIA -- Last Seen: Alive after the Calamity at Slimy Pebble*
