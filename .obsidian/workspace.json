@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cb2e49de53de891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "02f6572edf196a2d",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People.md",
+                "file": "Organizations/USIron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People.md",
+                "file": "Organizations/USIron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People.md"
+                "file": "Organizations/USIron.md"
               }
             }
           }
@@ -158,42 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cb2e49de53de891",
+  "active": "02f6572edf196a2d",
   "lastOpenFiles": [
-    "Session5.md",
-    "Locations.md",
-    "Locations/Soho.md",
-    "Locations/SteelCity 1.md",
-    "Locations/Slimy Pebble Mines.md",
-    "SlimyPebble.md",
-    "Locations/Meemaw's House.md",
-    "home.md",
-    "Locations/Soho Community House.md",
-    "Fey.md",
-    "Esoteric.md",
-    "Entities/Iamashtu.md",
-    "Assets/Contents of Safehouse.md",
-    "Assets",
-    "().md",
+    "Non Player Characters/Annie.md",
+    "Organizations/USIron.md",
+    "SteelCity.md",
+    "Player Charaters/Gráine.md",
+    "People.md",
+    "Organizations/University of Knowledge.md",
     "Organizations/The Passionist Monks of St. Paul.md",
-    "Organizations.md",
     "Organizations/StThomasReliquary.md",
-    "Non Player Characters/ShabbyButt.md",
     "Organizations/KIrST.md",
     "Organizations/AFL.md",
-    "SouthSide.md",
-    "SouthSideFlats.md",
-    "Organizations/PBA.md",
-    "Organizations/SlateCo.md",
-    "Organizations/University of Knowledge.md",
-    "Organizations/SlimyPebbleUniversity.md",
-    "Entities",
+    "Organizations.md",
+    "Non Player Characters/Timmy.md",
+    "Non Player Characters/SohoManor.md",
+    "Non Player Characters/SimonTuston.md",
+    "Non Player Characters/ShabbyButt.md",
+    "Non Player Characters/Rose Violet (aka Meemaw).md",
+    "Non Player Characters/Nora.md",
+    "Non Player Characters/Lucille.md",
+    "Non Player Characters/John Barcoski.md",
+    "Non Player Characters/Diedre.md",
+    "Non Player Characters/Cat.md",
+    "Locations/WinterBrewery.md",
+    "Locations/SteelCity 1.md",
+    "Locations/Soho.md",
+    "Locations/Soho Community House.md",
+    "Locations/Slimy Pebble Mines.md",
     "Events",
+    "Entities",
+    "Assets",
+    "Monsters",
     "Session Notes",
     "Player Charaters",
     "Organizations",
     "Non Player Characters",
-    "Monsters",
     "Magic",
     "Locations",
     "attachments/stylegan realism score.png",
